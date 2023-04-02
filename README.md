@@ -1,3 +1,3 @@
 # Learning Typesript
-Assigt-class
+Assign-class
 
