@@ -1,2 +1,3 @@
-# Assignment-Q1
-Tasks-Q1
+# Learning Typesript
+Assigt-class
+
